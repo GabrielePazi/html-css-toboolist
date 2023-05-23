@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+    height: 150px;
+}
+
+#logo_image {
+    height: 100px;
+    width: 100px;
+    margin: 25px 0px 25px 35px;
+    vertical-align: middle;
+}
+
+.main_title{
+    display: inline-block;
+    font-size: 65px;
+    font-weight: 900;
+    font-family:'Helvetica Neue', sans-serif;
+    vertical-align: middle;
+}
+
+body {
+    background: lightgrey;
+}
