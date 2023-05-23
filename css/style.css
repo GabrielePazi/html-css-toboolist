@@ -72,20 +72,18 @@ hr {
     padding: 20px 30px;
 }
 
-span {
-    margin-bottom: 15px;
-}
-
-.new_tasks {
+.tasks_section {
     margin-bottom: 20px;
 }
 
 h2{
     font-weight: 800;
+    margin-bottom: 10px;
 }
 
 .row {
     line-height: 20px;
+    margin-bottom: 15px;
 }
 
 .tick {
@@ -111,7 +109,7 @@ h2{
 .task_tag {
     color: white;
     font-size: 10px;
-    padding: 5px;
+    padding: 9px;
     border-radius: 15px;
 }
 
@@ -129,4 +127,12 @@ h2{
 
 .tag_type_mobile {
     background-color: rgb(242, 158, 51);
+}
+
+.tag_type_website {
+    background-color: rgb(216, 99, 161);
+}
+
+.tag_type_sales {
+    background-color: rgb(176, 201, 38);
 }
