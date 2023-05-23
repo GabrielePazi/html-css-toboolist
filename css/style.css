@@ -27,3 +27,28 @@ header {
 body {
     background: lightgrey;
 }
+
+main {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.actions_bar {
+    height: 50px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: white;
+}
+
+.add_task_button {
+    background-color: rgb(71, 173, 240);
+    border: none;
+    color: white;
+    height: 30px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin: 10px 10px 10px 15px;
+}
